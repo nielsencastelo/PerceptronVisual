@@ -1,0 +1,115 @@
+inherited FrmPrincipal_iPhone4in: TFrmPrincipal_iPhone4in
+  ClientHeight = 300
+  ClientWidth = 568
+  DesignerMasterStyle = 0
+  inherited Image1: TImage
+    Position.X = 48.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 377.000000000000000000
+    Size.Height = 169.000000000000000000
+  end
+  inherited Label1: TLabel
+    Position.X = 296.000000000000000000
+    Position.Y = 8.000000000000000000
+  end
+  inherited Label2: TLabel
+    Position.X = 368.000000000000000000
+    Position.Y = 192.000000000000000000
+  end
+  inherited Label3: TLabel
+    Position.X = 376.000000000000000000
+    Position.Y = 160.000000000000000000
+  end
+  inherited EditBias: TEdit
+    Position.X = 138.000000000000000000
+    Position.Y = 85.000000000000000000
+    Size.Height = 30.000000000000000000
+  end
+  inherited EditX1: TEdit
+    Position.X = 136.000000000000000000
+    Position.Y = 164.000000000000000000
+    Size.Height = 30.000000000000000000
+  end
+  inherited EditX2: TEdit
+    Position.X = 138.000000000000000000
+    Position.Y = 249.000000000000000000
+    Size.Height = 30.000000000000000000
+  end
+  inherited Label5: TLabel
+    Position.X = 80.000000000000000000
+    Position.Y = 96.000000000000000000
+  end
+  inherited Label6: TLabel
+    Position.X = 96.000000000000000000
+    Position.Y = 168.000000000000000000
+  end
+  inherited Label7: TLabel
+    Position.X = 96.000000000000000000
+    Position.Y = 256.000000000000000000
+  end
+  inherited BtnTreinar: TButton
+    Position.X = 448.000000000000000000
+    Position.Y = 24.000000000000000000
+  end
+  inherited BtnTestar: TButton
+    Position.X = 362.000000000000000000
+    Position.Y = 232.000000000000000000
+  end
+  inherited EditW0: TEdit
+    Position.X = 232.000000000000000000
+    Position.Y = 94.000000000000000000
+    Size.Height = 30.000000000000000000
+  end
+  inherited EditW1: TEdit
+    Position.X = 232.000000000000000000
+    Position.Y = 180.000000000000000000
+    Size.Height = 30.000000000000000000
+  end
+  inherited EditW2: TEdit
+    Position.X = 239.000000000000000000
+    Position.Y = 236.000000000000000000
+    Size.Height = 30.000000000000000000
+  end
+  inherited Label8: TLabel
+    Position.X = 194.000000000000000000
+    Position.Y = 113.000000000000000000
+  end
+  inherited Label9: TLabel
+    Position.X = 192.000000000000000000
+    Position.Y = 184.000000000000000000
+    Size.Width = 30.000000000000000000
+  end
+  inherited Label10: TLabel
+    Position.X = 192.000000000000000000
+    Position.Y = 232.000000000000000000
+  end
+  inherited Label11: TLabel
+    Position.X = 152.000000000000000000
+    Position.Y = 264.000000000000000000
+    Size.Width = 393.000000000000000000
+    Size.Height = 25.000000000000000000
+    TextSettings.Font.Size = 11.000000000000000000
+  end
+  inherited EditY: TEdit
+    Position.X = 416.000000000000000000
+    Position.Y = 160.000000000000000000
+    Size.Height = 30.000000000000000000
+  end
+  inherited ToolBar1: TToolBar
+    Size.Width = 568.000000000000000000
+    Size.Height = 44.000000000000000000
+    inherited SpeedButton1: TSpeedButton
+      Position.X = 472.000000000000000000
+      Size.Width = 91.000000000000000000
+      Size.Height = 44.000000000000000000
+    end
+  end
+  inherited ComboBox1: TComboBox
+    Size.Height = 30.000000000000000000
+  end
+  inherited StyleBook1: TStyleBook
+    Styles = <
+      item
+      end>
+  end
+end

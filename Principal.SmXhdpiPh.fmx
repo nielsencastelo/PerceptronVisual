@@ -1,0 +1,16 @@
+inherited FrmPrincipal_SmXhdpiPh: TFrmPrincipal_SmXhdpiPh
+  ClientHeight = 225
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited ToolBar1: TToolBar
+    Size.Width = 400.000000000000000000
+    inherited SpeedButton1: TSpeedButton
+      Position.X = 347.000000000000000000
+    end
+  end
+  inherited StyleBook1: TStyleBook
+    Styles = <
+      item
+      end>
+  end
+end
